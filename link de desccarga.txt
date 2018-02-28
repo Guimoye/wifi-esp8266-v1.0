@@ -1,0 +1,5 @@
+donde descargar el pluggins
+https://github.com/esp8266/Arduino/releases
+
+gestor de url adicional
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
